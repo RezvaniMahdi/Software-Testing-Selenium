@@ -1,4 +1,4 @@
-# Software-Testing-Selenium
+# SoftwareTesting-Selenium
 لینک پروژه 
 https://github.com/awais987123/City-Weather-Check-web-Application-
 
